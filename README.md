@@ -6,8 +6,11 @@ Titel
 4. Commando om https://github.com/MilanVives/testRepo.git als remote origing van onze repository toe te voegen:
 5. Commando om al onze commits te pushen naar de remote origin master:
 6. Commando om de status te controleren:
+	git status 
 7. Commando om een nieuwe branch aan te maken met als naam 'feature-branch':
 8. Commando om te zien in welke branch men bezig is:
+	git branch
 9. Commando om te veranderen naar branch 'feature-branch':
+	git checkout feature-branch
 10. Je zit in de feature-branch. Met welke commando kan je alle wijzigingen toevoegen aan de master branch?:
 11. Je zit op branch feature-branch. Na het branchen is er op de master een nieuwe file aangemaakt nieuwefile.txt. Met welke commando kan je je branch updaten met de laatste nieuwe file?:
